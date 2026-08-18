@@ -10,8 +10,6 @@ jobs:
     strategy:
       matrix:
         variant:
-        - "4"
-        - "4/fastcgi"
         - "5"
         - "5/fastcgi"
         - "6"
